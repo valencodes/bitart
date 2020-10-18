@@ -1,0 +1,127 @@
+footer {
+
+     width: 100%;
+     background-color: black;
+
+}
+
+.partefooter {
+
+     background-image: url(../imageneshome/marmol1.jpg);
+     background-attachment: fixed;
+     padding: 30px;
+     width: 100%;
+}
+
+
+.contenidof{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.titulomapa {
+
+color: black;
+text-align: center;
+font-family: cursive;
+padding: 35px 0 15px 0;
+font-size: 30px;
+
+}
+
+
+iframe {
+
+margin-top: 40px;
+border-radius: 5px;
+
+
+}
+
+
+form {
+
+margin-left: 120px;
+width: 450px;
+background-color: rgba(0, 0, 0, 4);
+box-sizing: border-box;
+padding: 20px 20px;
+margin-top: 20px;
+border-radius: 7px;
+font-family: cursive;
+
+}
+
+input, textarea {
+
+width: 100%;
+margin-bottom: 20px;
+padding: 7px;
+box-sizing: border-box;
+font-size: 17px;
+border-radius: 5px;
+font-family: cursive;
+
+}
+
+textarea {
+min-height: 100px;
+max-height: 200px;
+
+}
+
+#boton {
+     background: salmon;
+     color: #000;
+     padding: 20px;
+}
+
+
+#boton:hover {
+
+     cursor: pointer;
+     background: white;
+     color: salmon;
+}
+
+h3 {
+
+     text-align: center;
+     color: white;
+}
+
+
+.iconosredes{
+
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+
+
+.iconosredes img , a {
+
+     text-decoration: none;
+     margin: 50px 12px;
+}
+
+
+.textofooter {
+
+padding-top: 8px;
+width: 100%;
+height: 80px;
+font-family: cursive;
+text-align: center;
+color: white;
+font-size: 15px;
+
+
+
+}
+
+
